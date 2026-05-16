@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifestealerabusment.aternos.me:53335",
+    "ip": "lifestealerabusment.aternos.me",
     "port":  53335,
     "version": "1.21.11",
     "try-creative": true
