@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "lifestealerabusment.aternos.me:53335",
     "port":  53335,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
